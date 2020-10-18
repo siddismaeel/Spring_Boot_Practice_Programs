@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Hello"/>
+<aop-project name="Spring_container"/>
+<aop-project name="Spring_Boot_Web_App"/>
+<aop-project name="Spring_Boot_Web_App_Using_Properties_Files"/>
+<aop-project name="Spring_Boot_Web_App_Using_ModelAndView"/>
+<aop-project name="Spring_Boot_Web_App_Using_Acceptin_User_Data"/>
+<aop-project name="Spring_Boot_DI"/>
+</aop-reference-model>
